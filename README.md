@@ -1,18 +1,14 @@
 # Andrey Markin
-## Build your next AI app
-From AI Development to NGO Management – Your One-Stop IT Partner
+## Launch Your Business with AI
+Bring your business idea – 3 days to Proof of Concept, 2 weeks to MVP
 
 
 
 ## Contact
 [andrey-markin.com](https://andrey-markin.com)
 
-mark.life@pm.me
+108@mark-life.com
 
 
 ## Languages
-Python: Pandas, NumPy, Matplotlib, BeautifulSoup
-JavaScript, TypeScript
-SQL, Database Design
-Google App Script
-Tableau, Excel, Sheets
+Python, TypeScript, Go, SQL
