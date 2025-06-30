@@ -38,10 +38,10 @@ I'm dedicated to designing and implementing innovative AI and web solutions that
 #### Let's Connect! 🌐
 
 *  **Website:** [andrey-markin.com](https://andrey-markin.com)
-*  **LinkedIn:** [https://www.linkedin.com/in/mark-life/]
-*  **Twitter:** [https://x.com/mark_life_108]
-*  **Email:** [108@mark-life.com]
-*  Telegram: [https://t.me/mark_life_108]
+*  **LinkedIn:** https://www.linkedin.com/in/mark-life/
+*  **Twitter:** https://x.com/mark_life_108
+*  **Email:** 108@mark-life.com
+*  Telegram: https://t.me/mark_life_108
 
 ---
 
