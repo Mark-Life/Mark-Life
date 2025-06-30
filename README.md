@@ -15,7 +15,7 @@ I'm dedicated to designing and implementing innovative AI and web solutions that
 #### My Toolkit 🧰
 
 *   **Languages:** TypeScript, Python, Go
-*   **Frameworks:** React, Node.js, FastAPI, Django
+*   **Frameworks:** React, Node.js, FastAPI, Django, React Native
 *   **AI/ML:** PyTorch, NumPy, Transformers
 *   **Databases:** PostgreSQL, Redis
 *   **Cloud:** AWS, Google Cloud Platform
