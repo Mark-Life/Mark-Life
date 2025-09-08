@@ -2,7 +2,7 @@
 
 ---
 
-#### What I Do 🛠️
+#### What I Do
 
 *   **Full-stack AI Development:** Crafting custom AI solutions, from intelligent automation systems to data pipeline development and complete application deployments.
 *   **Web Development:** Building modern and scalable web applications, including Progressive Web Apps, e-commerce platforms, and robust API integrations.
