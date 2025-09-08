@@ -29,7 +29,8 @@ I'm dedicated to designing and implementing innovative AI and web solutions that
 
 ---
 #### Latest Blog Posts 📚  
-  
+
+* [How AI‑Powered Apps Actually Work: Practical Guide with Tools, RAG, and Memory](https://andrey-markin.com/blog/ai-powered-apps) – August 14, 2025  
 * [AI-Powered Development: Deep Dive into Cursor's Features and Workflow](https://andrey-markin.com/blog/ai-powered-development-deep-dive-into-cursors-features-and-workflow) - May 20, 2025  
 * [Sell Yourself as a Business, Not Just a Coder](https://andrey-markin.com/blog/sell-yourself-as-a-business-not-just-a-coder) - April 21, 2025  
 * [From Typing to Thinking: The Developer Evolution](https://andrey-markin.com/blog/from-typing-to-thinking-the-developer-evolution) - April 17, 2025
