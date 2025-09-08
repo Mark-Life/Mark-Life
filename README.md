@@ -1,4 +1,4 @@
-### Andrey Markin, a Full-stack AI Developer 🚀
+### Andrey Markin, a Full-stack AI Developer
 
 ---
 
@@ -10,7 +10,7 @@
 
 ---
 
-#### My Toolkit 🧰
+#### My Toolkit
 
 *   **Languages:** TypeScript, Python, Go
 *   **Frameworks:** Next.js, React, React Native, Electron, Playwright, OpenAI SDK, Transformers, NumPy
@@ -19,14 +19,14 @@
 *   **Cloud:** Docker, Kubernetes, AWS, Google Cloud, Serverless
 
 ---
-#### Featured Projects ✨
+#### Featured Projects
 
 *   **[Outrizz AI](https://andrey-markin.com/projects/outrizz-ai):** An AI-powered platform for dynamic event engagement.
 *   **[PickArt](https://andrey-markin.com/projects/pickart):** A unique art-hospitality marketplace solution.
 *   **[Intelligent Aggregator Platform](https://andrey-markin.com/projects/aggregator):** A high-performance, SEO-optimized data aggregation system.
 
 ---
-#### Latest Blog Posts 📚  
+#### Latest Blog Posts
 
 * [How AI‑Powered Apps Actually Work: Practical Guide with Tools, RAG, and Memory](https://andrey-markin.com/blog/ai-powered-apps) – August 14, 2025  
 * [AI-Powered Development: Deep Dive into Cursor's Features and Workflow](https://andrey-markin.com/blog/ai-powered-development-deep-dive-into-cursors-features-and-workflow) - May 20, 2025  
@@ -34,7 +34,7 @@
 * [From Typing to Thinking: The Developer Evolution](https://andrey-markin.com/blog/from-typing-to-thinking-the-developer-evolution) - April 17, 2025
 
 ---
-#### Let's Connect! 🌐
+#### Let's Connect!
 
 *  **Website:** [andrey-markin.com](https://andrey-markin.com)
 *  **LinkedIn:** https://www.linkedin.com/in/mark-life/
