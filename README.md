@@ -1,7 +1,5 @@
 ### Andrey Markin, a Full-stack AI Developer 🚀
 
-I'm dedicated to designing and implementing innovative AI and web solutions that empower businesses and enhance user experiences. With a strong background in both back-end and front-end development of AI products, I bridge the gap between complex ideas and tangible, high-performance applications.
-
 ---
 
 #### What I Do 🛠️
