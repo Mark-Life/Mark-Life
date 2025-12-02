@@ -21,6 +21,7 @@
 ---
 #### Featured Projects
 
+*   **[Bun React Framework](https://github.com/Mark-Life/bun-full-stack-app-example):** A Bun-powered React framework with SSR and client-side routing, React Server Components, ISR, type-safe APIs, and file-based routing.
 *   **[AI Form](https://github.com/Mark-Life/ai-form):** AI intermediary that fills forms through conversation. Speak or type naturally, AI handles the fields.
 *   **[Outrizz AI](https://andrey-markin.com/projects/outrizz-ai):** An AI-powered platform for dynamic event engagement.
 *   **[PickArt](https://andrey-markin.com/projects/pickart):** A unique art-hospitality marketplace solution.
