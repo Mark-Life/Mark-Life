@@ -48,4 +48,3 @@
 
 > Bring your business idea – 3 days to Proof of Concept, 2 weeks to MVP
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mark-Life&layout=compact&theme=radical)
