@@ -21,6 +21,10 @@
 ---
 #### Featured Projects
 
+*   **[Telegram Claude](https://github.com/Mark-Life/telegram-claude):** Telegram bot that runs Claude Code CLI on your VPS and streams responses back to chat. Supports project switching, session continuity, voice messages, plan mode, and message queuing.
+*   **[Yapmate](https://github.com/Mark-Life/Yapmate):** ChatGPT alternative built with Next.js and React Native (iOS). Supports multiple AI models and providers, user rules, MCPs, and multi-user chats.
+*   **[OpenTools](https://github.com/Mark-Life/OpenTools)** *(WIP)*: LLM auto-discovery for web APIs — OpenAPI extensions that let AI clients find and use your app's API from just a URL.
+*   **[GitReel](https://github.com/Mark-Life/GitReel)** *(WIP)*: Paste a GitHub repo URL, get a TikTok/Reels-style timelapse video of its evolution.
 *   **[Bun React Framework](https://github.com/Mark-Life/bun-full-stack-app-example):** A Bun-powered React framework with SSR and client-side routing, React Server Components, ISR, type-safe APIs, and file-based routing.
 *   **[AI Form](https://github.com/Mark-Life/ai-form):** AI intermediary that fills forms through conversation. Speak or type naturally, AI handles the fields.
 *   **[Outrizz AI](https://andrey-markin.com/projects/outrizz-ai):** An AI-powered platform for dynamic event engagement.
@@ -30,10 +34,12 @@
 ---
 #### Latest Blog Posts
 
-* [How AI‑Powered Apps Actually Work: Practical Guide with Tools, RAG, and Memory](https://andrey-markin.com/blog/ai-powered-apps) – August 14, 2025  
-* [AI-Powered Development: Deep Dive into Cursor's Features and Workflow](https://andrey-markin.com/blog/ai-powered-development-deep-dive-into-cursors-features-and-workflow) - May 20, 2025  
-* [Sell Yourself as a Business, Not Just a Coder](https://andrey-markin.com/blog/sell-yourself-as-a-business-not-just-a-coder) - April 21, 2025  
-* [From Typing to Thinking: The Developer Evolution](https://andrey-markin.com/blog/from-typing-to-thinking-the-developer-evolution) - April 17, 2025
+* [Claude Code vs Cursor: Choosing the Right AI Coding Tool in 2026](https://andrey-markin.com/blog/claude-code-vs-cursor) – February 16, 2026
+* [Claude Code on VPS: Full Setup to Code from Your Phone](https://andrey-markin.com/blog/claude-code-vps-setup) – February 8, 2026
+* [How AI‑Powered Apps Actually Work: Practical Guide with Tools, RAG, and Memory](https://andrey-markin.com/blog/ai-powered-apps) – August 14, 2025
+* [AI-Powered Development: Deep Dive into Cursor's Features and Workflow](https://andrey-markin.com/blog/cursor-ai-development) – May 20, 2025
+* [Sell Yourself as a Business, Not Just a Coder](https://andrey-markin.com/blog/developer-as-business) – April 21, 2025
+* [From Typing to Thinking: The Developer Evolution](https://andrey-markin.com/blog/ai-developer-evolution) – April 17, 2025
 
 ---
 #### Let's Connect!
@@ -47,4 +53,3 @@
 ---
 
 > Bring your business idea – 3 days to Proof of Concept, 2 weeks to MVP
-
