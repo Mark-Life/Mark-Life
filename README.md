@@ -22,7 +22,7 @@
 #### Featured Projects
 
 *   **[Telegram Claude](https://github.com/Mark-Life/telegram-claude):** Telegram bot that runs Claude Code CLI on your VPS and streams responses back to chat. Supports project switching, session continuity, voice messages, plan mode, and message queuing.
-*   **[Yapmate](https://yapmate.com/about):** ChatGPT alternative built with Next.js and React Native (iOS). Supports multiple AI models and providers, user rules, MCPs, and multi-user chats.
+*   **[Yapmate](https://yapmate.com/about):** ChatGPT alternative built with React Vite and React Native (iOS). Supports multiple AI models and providers, user rules, MCPs, and multi-user chats.
 *   **[OpenTools](https://github.com/Mark-Life/OpenTools)** *(WIP)*: LLM auto-discovery for web APIs — OpenAPI extensions that let AI clients find and use your app's API from just a URL.
 *   **[GitReel](https://github.com/Mark-Life/GitReel)** *(WIP)*: Paste a GitHub repo URL, get a TikTok/Reels-style timelapse video of its evolution.
 *   **[Bun React Framework](https://github.com/Mark-Life/bun-full-stack-app-example):** A Bun-powered React framework with SSR and client-side routing, React Server Components, ISR, type-safe APIs, and file-based routing.
