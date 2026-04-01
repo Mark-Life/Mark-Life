@@ -25,6 +25,7 @@
 *   **[Yapmate](https://yapmate.com/about):** ChatGPT alternative built with React Vite and React Native (iOS). Supports multiple AI models and providers, user rules, MCPs, and multi-user chats.
 *   **[OpenTools](https://github.com/Mark-Life/OpenTools)** *(WIP)*: LLM auto-discovery for web APIs — OpenAPI extensions that let AI clients find and use your app's API from just a URL.
 *   **[GitReel](https://github.com/Mark-Life/GitReel)** *(WIP)*: Paste a GitHub repo URL, get a TikTok/Reels-style timelapse video of its evolution.
+*   **[CDN Mark Life](https://github.com/Mark-Life/cdn-mark-life)** *(WIP)*: CDN and file management platform built on AWS S3 + CloudFront with Convex backend.
 *   **[Bun React Framework](https://github.com/Mark-Life/bun-full-stack-app-example):** A Bun-powered React framework with SSR and client-side routing, React Server Components, ISR, type-safe APIs, and file-based routing.
 *   **[Recruit AI](https://github.com/Mark-Life/recruit-ai):** AI-powered recruitment matching platform with eval-driven optimization, Effect.ts hexagonal architecture, and Qdrant vector search.
 *   **[AI Form](https://github.com/Mark-Life/ai-form):** AI intermediary that fills forms through conversation. Speak or type naturally, AI handles the fields.
