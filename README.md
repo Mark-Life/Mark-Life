@@ -26,6 +26,7 @@
 *   **[OpenTools](https://github.com/Mark-Life/OpenTools)** *(WIP)*: LLM auto-discovery for web APIs — OpenAPI extensions that let AI clients find and use your app's API from just a URL.
 *   **[GitReel](https://github.com/Mark-Life/GitReel)** *(WIP)*: Paste a GitHub repo URL, get a TikTok/Reels-style timelapse video of its evolution.
 *   **[Bun React Framework](https://github.com/Mark-Life/bun-full-stack-app-example):** A Bun-powered React framework with SSR and client-side routing, React Server Components, ISR, type-safe APIs, and file-based routing.
+*   **[Recruit AI](https://github.com/Mark-Life/recruit-ai):** AI-powered recruitment matching platform with eval-driven optimization, Effect.ts hexagonal architecture, and Qdrant vector search.
 *   **[AI Form](https://github.com/Mark-Life/ai-form):** AI intermediary that fills forms through conversation. Speak or type naturally, AI handles the fields.
 *   **[Outrizz AI](https://andrey-markin.com/projects/outrizz-ai):** An AI-powered platform for dynamic event engagement.
 *   **[PickArt](https://andrey-markin.com/projects/pickart):** A unique art-hospitality marketplace solution.
@@ -34,6 +35,7 @@
 ---
 #### Latest Blog Posts
 
+* [The AI-Ready Web: Why Every Website Needs Both a UI and an API](https://andrey-markin.com/blog/ai-ready-web) – March 11, 2026
 * [Claude Code vs Cursor: Choosing the Right AI Coding Tool in 2026](https://andrey-markin.com/blog/claude-code-vs-cursor) – February 16, 2026
 * [Claude Code on VPS: Full Setup to Code from Your Phone](https://andrey-markin.com/blog/claude-code-vps-setup) – February 8, 2026
 * [How AI‑Powered Apps Actually Work: Practical Guide with Tools, RAG, and Memory](https://andrey-markin.com/blog/ai-powered-apps) – August 14, 2025
