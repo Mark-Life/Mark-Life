@@ -28,6 +28,7 @@
 *   **[Bun React Framework](https://github.com/Mark-Life/bun-full-stack-app-example):** A Bun-powered React framework with SSR and client-side routing, React Server Components, ISR, type-safe APIs, and file-based routing.
 *   **[Recruit AI](https://github.com/Mark-Life/recruit-ai):** AI-powered recruitment matching platform with eval-driven optimization, Effect.ts hexagonal architecture, and Qdrant vector search.
 *   **[AI Form](https://github.com/Mark-Life/ai-form):** AI intermediary that fills forms through conversation. Speak or type naturally, AI handles the fields.
+*   **[tfjs-zero-to-hero](https://github.com/Mark-Life/tfjs-zero-to-hero)** *(WIP)*: Learning machine learning by re-implementing classic models (MNIST, makemore, nanoGPT, two-tower retrieval) from scratch in TypeScript with tfjs-node.
 *   **[Outrizz AI](https://andrey-markin.com/projects/outrizz-ai):** An AI-powered platform for dynamic event engagement.
 *   **[PickArt](https://andrey-markin.com/projects/pickart):** A unique art-hospitality marketplace solution.
 *   **[Intelligent Aggregator Platform](https://andrey-markin.com/projects/aggregator):** A high-performance, SEO-optimized data aggregation system.
