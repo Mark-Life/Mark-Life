@@ -1,5 +1,19 @@
 ### Andrey Markin, a Full-stack AI Developer
 
+<p>
+  <a href="https://andrey-markin.com"><img src="https://shieldcn.dev/badge/website-andrey--markin.com-000000.svg?logo=ri:RiGlobalLine" alt="website"/></a>
+  <a href="https://www.linkedin.com/in/mark-life/"><img src="https://shieldcn.dev/badge/LinkedIn-mark--life-0A66C2.svg?logo=linkedin" alt="LinkedIn"/></a>
+  <a href="https://x.com/mark_life_108"><img src="https://shieldcn.dev/badge/X-@mark__life__108-000000.svg?logo=x" alt="X"/></a>
+  <a href="https://t.me/mark_life_108"><img src="https://shieldcn.dev/badge/Telegram-mark__life__108-26A5E4.svg?logo=telegram" alt="Telegram"/></a>
+  <a href="mailto:108@mark-life.com"><img src="https://shieldcn.dev/badge/email-108@mark--life.com-D14836.svg?logo=gmail" alt="email"/></a>
+</p>
+<p>
+  <img src="https://shieldcn.dev/badge/status-open%20to%20work-22C55E.svg?variant=branded" alt="open to work"/>
+  <img src="https://shieldcn.dev/badge/PoC-3%20days-violet.svg?split=true" alt="PoC 3 days"/>
+  <img src="https://shieldcn.dev/badge/MVP-2%20weeks-violet.svg?split=true" alt="MVP 2 weeks"/>
+</p>
+
+
 ---
 
 #### What I Do
@@ -12,11 +26,51 @@
 
 #### My Toolkit
 
-*   **Languages:** TypeScript, Python, Go
-*   **Frameworks:** Next.js, React, React Native, Electron, Playwright, OpenAI SDK, Transformers, NumPy
-*   **AI/ML:** LLMs, AI Agents, Semantic Search, RAGs, Prompt Engineering, AI Pipelines, Data Mining
-*   **Databases:** PostgreSQL, Redis
-*   **Cloud:** Docker, Kubernetes, AWS, Google Cloud, Serverless
+**Languages**
+
+![TypeScript](https://www.shieldcn.dev/badge/-TypeScript-3178C6.svg?logo=typescript&variant=branded&size=sm)
+![Python](https://www.shieldcn.dev/badge/-Python-3776AB.svg?logo=python&variant=branded&size=sm)
+![Go](https://www.shieldcn.dev/badge/-Go-00ADD8.svg?logo=go&variant=branded&size=sm)
+
+**Frameworks & Runtimes**
+
+![Next.js](https://www.shieldcn.dev/badge/-Next.js-000000.svg?logo=nextdotjs&variant=branded&size=sm)
+![React](https://www.shieldcn.dev/badge/-React-61DAFB.svg?logo=react&variant=branded&size=sm)
+![React_Native](https://www.shieldcn.dev/badge/-React_Native-61DAFB.svg?logo=react&variant=branded&size=sm)
+![Electron](https://www.shieldcn.dev/badge/-Electron-47848F.svg?logo=electron&variant=branded&size=sm)
+![Bun](https://www.shieldcn.dev/badge/-Bun-000000.svg?logo=bun&variant=branded&size=sm)
+![Effect.ts](https://www.shieldcn.dev/badge/-Effect.ts-0B0B0B.svg?logo=effect&variant=branded&size=sm)
+
+**AI / ML**
+
+![Claude](https://www.shieldcn.dev/badge/-Claude-CC785C.svg?logo=anthropic&variant=branded&size=sm)
+![OpenAI_SDK](https://www.shieldcn.dev/badge/-OpenAI_SDK-412991.svg?logo=openai&variant=branded&size=sm)
+![AI_SDK](https://www.shieldcn.dev/badge/-AI_SDK-000000.svg?logo=vercel&variant=branded&size=sm)
+![Hugging_Face](https://www.shieldcn.dev/badge/-Transformers-FFD21E.svg?logo=huggingface&variant=branded&size=sm)
+![TensorFlow.js](https://www.shieldcn.dev/badge/-TensorFlow.js-FF6F00.svg?logo=tensorflow&variant=branded&size=sm)
+![NumPy](https://www.shieldcn.dev/badge/-NumPy-013243.svg?logo=numpy&variant=branded&size=sm)
+![LLMs](https://www.shieldcn.dev/badge/-LLMs-9333EA.svg?logo=ri:RiSparkling2Fill&variant=branded&size=sm)
+![AI_Agents](https://www.shieldcn.dev/badge/-AI_Agents-6366F1.svg?logo=ri:RiRobot2Fill&variant=branded&size=sm)
+![RAG](https://www.shieldcn.dev/badge/-RAG-0EA5E9.svg?logo=ri:RiDatabase2Fill&variant=branded&size=sm)
+![Semantic_Search](https://www.shieldcn.dev/badge/-Semantic_Search-14B8A6.svg?logo=ri:RiSearchEyeFill&variant=branded&size=sm)
+
+**Data**
+
+![PostgreSQL](https://www.shieldcn.dev/badge/-PostgreSQL-4169E1.svg?logo=postgresql&variant=branded&size=sm)
+![Redis](https://www.shieldcn.dev/badge/-Redis-DC382D.svg?logo=redis&variant=branded&size=sm)
+![Qdrant](https://www.shieldcn.dev/badge/-Qdrant-DC244C.svg?logo=qdrant&variant=branded&size=sm)
+![Convex](https://www.shieldcn.dev/badge/-Convex-EE342F.svg?logo=convex&variant=branded&size=sm)
+
+**Cloud & Infra**
+
+![Docker](https://www.shieldcn.dev/badge/-Docker-2496ED.svg?logo=docker&variant=branded&size=sm)
+![Kubernetes](https://www.shieldcn.dev/badge/-Kubernetes-326CE5.svg?logo=kubernetes&variant=branded&size=sm)
+![AWS](https://www.shieldcn.dev/badge/-AWS-FF9900.svg?logo=amazonwebservices&variant=branded&size=sm)
+![Google_Cloud](https://www.shieldcn.dev/badge/-Google_Cloud-4285F4.svg?logo=googlecloud&variant=branded&size=sm)
+![Vercel](https://www.shieldcn.dev/badge/-Vercel-000000.svg?logo=vercel&variant=branded&size=sm)
+![CloudFront](https://www.shieldcn.dev/badge/-CloudFront-8C4FFF.svg?logo=amazoncloudfront&variant=branded&size=sm)
+![Serverless](https://www.shieldcn.dev/badge/-Serverless-FD5750.svg?logo=serverless&variant=branded&size=sm)
+
 
 ---
 #### Featured Projects
@@ -56,3 +110,11 @@
 ---
 
 > Bring your business idea – 3 days to Proof of Concept, 2 weeks to MVP
+
+---
+
+<p>
+  <img src="https://shieldcn.dev/badge/dynamic/json?url=https://api.github.com/users/Mark-Life&query=$.followers&label=GitHub%20followers&color=181717&logo=github" alt="GitHub followers"/>
+  <img src="https://shieldcn.dev/badge/dynamic/json?url=https://api.github.com/users/Mark-Life&query=$.public_repos&label=public%20repos&color=181717&logo=github" alt="repos"/>
+</p>
+
