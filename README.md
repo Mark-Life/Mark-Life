@@ -75,7 +75,7 @@
 ---
 #### Featured Projects
 
-*   **[Telegram Claude](https://github.com/Mark-Life/telegram-claude):** Telegram bot that runs Claude Code CLI on your VPS and streams responses back to chat. Supports project switching, session continuity, voice messages, plan mode, and message queuing.
+*   **[Telegram Claude Codex](https://github.com/Mark-Life/telegram-claude-codex):** Telegram bot that runs Claude Code or OpenAI Codex on your VPS and streams responses back to chat. Supports project switching, sessions, voice, plan mode, and queues.
 *   **[OpenTools](https://github.com/Mark-Life/OpenTools)** *(WIP)*: LLM auto-discovery for web APIs — OpenAPI extensions that let AI clients find and use your app's API from just a URL.
 *   **[GitReel](https://github.com/Mark-Life/GitReel)** *(WIP)*: Paste a GitHub repo URL, get a TikTok/Reels-style timelapse video of its evolution.
 *   **[CDN Mark Life](https://github.com/Mark-Life/cdn-mark-life)** *(WIP)*: CDN and file management platform built on AWS S3 + CloudFront with Convex backend.
@@ -117,4 +117,3 @@
   <img src="https://shieldcn.dev/badge/dynamic/json?url=https://api.github.com/users/Mark-Life&query=$.followers&label=GitHub%20followers&color=181717&logo=github" alt="GitHub followers"/>
   <img src="https://shieldcn.dev/badge/dynamic/json?url=https://api.github.com/users/Mark-Life&query=$.public_repos&label=public%20repos&color=181717&logo=github" alt="repos"/>
 </p>
-
