@@ -75,6 +75,7 @@
 ---
 #### Featured Projects
 
+*   **[Peektrace](https://github.com/Mark-Life/peektrace):** Local-first, loopback-only inspector and editor for Claude Code state — browse and edit memories and sessions across all projects, with context-budget forensics. Ships as a single `curl | sh`-installable binary with the UI embedded.
 *   **[Telegram Claude Codex](https://github.com/Mark-Life/telegram-claude-codex):** Telegram bot that runs Claude Code or OpenAI Codex on your VPS and streams responses back to chat. Supports project switching, sessions, voice, plan mode, and queues.
 *   **[OpenTools](https://github.com/Mark-Life/OpenTools)** *(WIP)*: LLM auto-discovery for web APIs — OpenAPI extensions that let AI clients find and use your app's API from just a URL.
 *   **[GitReel](https://github.com/Mark-Life/GitReel)** *(WIP)*: Paste a GitHub repo URL, get a TikTok/Reels-style timelapse video of its evolution.
