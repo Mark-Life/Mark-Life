@@ -8,7 +8,6 @@
   <a href="mailto:108@mark-life.com"><img src="https://shieldcn.dev/badge/email-108@mark--life.com-D14836.svg?logo=gmail" alt="email"/></a>
 </p>
 <p>
-  <img src="https://shieldcn.dev/badge/status-open%20to%20work-22C55E.svg?variant=branded" alt="open to work"/>
   <img src="https://shieldcn.dev/badge/PoC-3%20days-violet.svg?split=true" alt="PoC 3 days"/>
   <img src="https://shieldcn.dev/badge/MVP-2%20weeks-violet.svg?split=true" alt="MVP 2 weeks"/>
 </p>
