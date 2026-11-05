@@ -7,10 +7,6 @@
   <a href="https://t.me/mark_life_108"><img src="https://shieldcn.dev/badge/Telegram-mark__life__108-26A5E4.svg?logo=telegram" alt="Telegram"/></a>
   <a href="mailto:108@mark-life.com"><img src="https://shieldcn.dev/badge/email-108@mark--life.com-D14836.svg?logo=gmail" alt="email"/></a>
 </p>
-<p>
-  <img src="https://shieldcn.dev/badge/PoC-3%20days-violet.svg?split=true" alt="PoC 3 days"/>
-  <img src="https://shieldcn.dev/badge/MVP-2%20weeks-violet.svg?split=true" alt="MVP 2 weeks"/>
-</p>
 
 
 ---
